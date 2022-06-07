@@ -23,6 +23,7 @@ docs_dir: docs
 nav: 
   - La page d'accueil : index.md
   - Un notebook jupyter : Notebook.ipynb
+  - Une horloge cool : horloge.html
   # Référencer vos autres pages ci-dessus...
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
