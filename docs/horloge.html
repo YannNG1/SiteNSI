@@ -11,7 +11,7 @@
   
     <style>
         #clock {
-            font-family: "Arial";
+            font-family: Arial;
             font-size: 40px;
             width: 250px;
             margin: 20px;
@@ -19,12 +19,18 @@
             border: 2px solid black;
             border-radius: 20px;
         }
+
+        #boutton {
+            text-align: center;
+            font-family: Arial;
+            margin: 20px;
+        }
     </style>
 </head>
   
 <body>
     <div id="clock">8:10:45</div>
-    <button onclick="window.location.href = 'https://yannng1.github.io/SiteNSI/';">Revenir à la page d'acceuil</button>
+    <button id="boutton" onclick="window.location.href = 'https://yannng1.github.io/SiteNSI/';">Revenir à la page d'acceuil</button>
     <script>
         setInterval(showTime, 1000);
         function showTime() {
