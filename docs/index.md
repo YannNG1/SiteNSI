@@ -1,4 +1,4 @@
-Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material.
+Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material accompagner par une horloge de qualité allemande.
 
 > Salut salut.
 
