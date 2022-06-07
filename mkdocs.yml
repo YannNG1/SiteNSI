@@ -1,11 +1,11 @@
 # Fichier de configuration du site à personnaliser
 ### Configuration minimale
 site_name: Base MkDocs Material # Nom du site <70 caractères, apparait dans l'onglet du navigateur 
-site_url: https://ericecmorlaix.github.io/base_mkdocs_material/ # Adresse web principale de publication du site, à modifier au format https://votrePseudoGitHub.github.io/votreDepot/
+site_url: https://yannng1.github.io/SiteNSI/ # Adresse web principale de publication du site, à modifier au format https://votrePseudoGitHub.github.io/votreDepot/
 
 ### Configuration du dépôt
 # Ajoute en haut à droite de chaque page du site, icône, nom et lien vers le dépot GitHub du projet.
-repo_url: https://github.com/ericECmorlaix/base_mkdocs_material
+repo_url: https://github.com/YannNG1/SiteNSI
 repo_name: 'base_mkdocs_material' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
 edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` jusqu'au répertoire `docs` ;
 # Ce qui permet avec MkDocs-Material d'ajouter un bouton (crayon) d'édition du code source.md d'une page du site depuis le navigateur
@@ -14,7 +14,7 @@ edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` 
 ### Configuration de métadonnées
 # Métadonnées de description <300 caratères, et d'auteur pour toutes les pages du site 
 site_description: Exemple de site de base pour MkDocs avec le thème Material à personaliser
-site_author: "Eric MADEC"
+site_author: "Yann Nunez"
 
 ### Configuration de la stucture de navigation
 # Dossier source, chemin relatif au fichier mkdocs.yml
@@ -106,7 +106,7 @@ plugins:
 ### Configuration d'une licence
 # Information de droit d'auteur qui s'affiche dans le pied de page pour toutes les pages du site
 copyright: >
-    Document partagé par <a href="https://github.com/ericECmorlaix" target="_blank">Eric MADEC</a>
+    Document partagé par <a href="https://github.com/YannNG1" target="_blank">Yann Nunez</a>
     &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>
     <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
 
