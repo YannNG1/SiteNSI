@@ -2,8 +2,8 @@ Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs 
 
 > Salut salut.
 
-# Voici un titre de niveau 1
-## Et voici un titre de niveau 2
+# Voici un titre
+## Et voici un autre titre
 Ceci est un paragraphe.  
 Avec un retour à la ligne sans saut de ligne.
 
