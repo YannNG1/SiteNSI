@@ -4,12 +4,22 @@
     <meta name="viewport" content=
         "width=device-width, 
         initial-scale=1.0" />
-  
-    <title>Horloge</title>
+        <title>Chronometre</title>
+
+        <style>
+            #boutton {
+            text-align: center;
+            font-family: Arial;
+            margin: 20px;
+        }
+        </style> 
+
+
     <h1><time>00:00:00</time></h1>
     <button id="strt">start</button>
     <button id="stp">stop</button>
     <button id="rst">reset</button>
+    <button id="boutton" onclick="window.location.href = 'https://yannng1.github.io/SiteNSI/';">Revenir à la page d'acceuil</button>
 
     <script>
     var h1 = document.getElementsByTagName('h1')[0];
