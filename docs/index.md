@@ -1,23 +1,5 @@
-Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material accompagner par une horloge de qualité allemande.
+Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material accompagner par une horloge de qualité allemande et un magnifique chronometre.
 
-> Salut salut.
+> La page d'accueil n'est pas vraiment utile c'est pour ça que c'est très vide. Si ça vous attriste voici un gif de chat aléatoire pour vous donner le sourire.
 
-# Voici un titre
-## Et voici un autre titre
-Ceci est un paragraphe.  
-Avec un retour à la ligne sans saut de ligne.
-
-Et avec un retour à la ligne avec saut de ligne.
-
-## Un lien :
-Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
-
-## Une image :
-![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)
-
-## Une liste :
-- Toto ;
-- Titi ;
-- Tata...
-
-> Libre à vous de personaliser ce site avec l'aide de ce [tutoriel pour MkDocs](https://github.com/ericECmorlaix/adn-Tutoriel_site_web)...
+![gif de chat](https://acegif.com/fr/gif-d-attaque-de-chat/)
